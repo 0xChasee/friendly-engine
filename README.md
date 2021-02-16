@@ -11,4 +11,4 @@ Use it only for ethical purposes. I am not developing repositories just for it t
 To run this:
 - `pip3 install -r requirements.txt`
 ~~- You need a GMAIL account to get the reports - WARNING: You must have Less secure app access on and 2fA off - [Less secure apps]~~
-You no longer need a GMAIL account to get the reports.
+You no longer need a GMAIL account to get the reports, but might be insecure.
